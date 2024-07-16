@@ -1,1 +1,1 @@
-# LaTeX Tutorials for Academic Papers
+# \latex{} Tutorials for Academic Papers
