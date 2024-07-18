@@ -28,5 +28,5 @@ Local commands
 ```
 
 <p align="justify">
-The **{class}** part at the beginning (`\documentclass[options]{class}`) indicates the type of document you're working on. For example, you might want to write an article, a book, a report, or even a letter (!) and so on.
+The <b style="color:blue">{class}</b> part at the beginning (<code>\documentclass[options]{class}</code>) indicates the type of document you're working on. For example, you might want to write an article, a book, a report, or even a letter (!) and so on.
 </p>
