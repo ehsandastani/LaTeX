@@ -11,6 +11,7 @@ First off, you gotta install a TeX distribution, like TeX Live (which is cross-p
 <p align="justify">
 The basic structure of a TeX file looks like this:
 </p>
+
 ```LaTeX
 \documentclass[options]{class}
 Global commands
