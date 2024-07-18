@@ -28,5 +28,5 @@ Local commands
 ```
 
 <p align="justify">
-The __{class}__ part at the beginning (\documentclass[options]{class}) indicates the type of document you're working on. For example, you might want to write an article, a book, a report, or even a letter (!) and so on.
+The <br>{class}</br> part at the beginning (\documentclass[options]{class}) indicates the type of document you're working on. For example, you might want to write an article, a book, a report, or even a letter (!) and so on.
 </p>
