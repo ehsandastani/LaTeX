@@ -7,4 +7,22 @@ Let's skip how awesome LaTeX is since you can look up its benefits yourself. But
 First off, you gotta install a TeX distribution, like TeX Live (which is cross-platform), MiKTeX (for Windows), MacTex (for Mac), etc. After that, you can go ahead and install an editor for it! Since my work relies on Windows :'), I use TeXStudio myself.
 </p>
 
+## The Basic Structure of a TeX File
+<p align="justify">
+The basic structure of a TeX file looks like this:
+</p>
+```LaTeX
+\documentclass[options]{class}
+Global commands
+.
+.
+.
+\begin{document}
+.
+.
+Local commands
+.
+.
+\end{document}
+```
 
