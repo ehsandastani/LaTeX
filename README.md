@@ -32,3 +32,11 @@ The <b>{class}</b> part at the beginning (<code>\documentclass[options]{class}</
 </p>
 
 Alright, now it's time to write your first program in LaTeX!
+
+```LaTeX
+\documentclass[12pt,a4paper]{article}
+
+\begin{document}
+	Hello World!
+\end{document}
+```
