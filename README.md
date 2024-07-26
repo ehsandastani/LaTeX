@@ -31,6 +31,8 @@ Local commands
 The <b>{class}</b> part at the beginning (<code>\documentclass[options]{class}</code>) indicates the type of document you're working on. For example, you might want to write an article, a book, a report, or even a letter (!) and so on. 
 </p>
 
+
+
 Alright, now it's time to write your first program in LaTeX!
 
 ```LaTeX
