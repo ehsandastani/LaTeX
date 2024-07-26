@@ -40,3 +40,6 @@ Alright, now it's time to write your first program in LaTeX!
 	Hello World!
 \end{document}
 ```
+Let's see the result!
+
+![The output of first project!](image_url "Title text")
