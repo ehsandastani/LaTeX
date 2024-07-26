@@ -33,7 +33,7 @@ The <b>{class}</b> part at the beginning (<code>\documentclass[options]{class}</
 
 
 
-Alright, now it's time to write your first program in LaTeX as example 1.tex file!
+Alright, now it's time to write your first program in LaTeX as "example 1.tex" file!
 
 ```LaTeX
 \documentclass[12pt,a4paper]{article}
