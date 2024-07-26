@@ -45,3 +45,5 @@ Alright, now it's time to write your first program in LaTeX!
 Let's see the result!
 
 ![The output of first project!](https://github.com/ehsandastani/LaTeX/blob/main/pics/1.png?raw=true)
+
+The output from compiling the code above is a PDF file, as shown in the image above. In this code, several options for the <code>article</code> class are mentioned.
