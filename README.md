@@ -42,4 +42,4 @@ Alright, now it's time to write your first program in LaTeX!
 ```
 Let's see the result!
 
-![The output of first project!](image_url "Title text")
+![The output of first project!](https://github.com/ehsandastani/LaTeX/blob/main/pics/1.png?raw=true)
